@@ -1,0 +1,14 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Wine\Fonts\Replacements]
+"DFKai-SB"="wqy-microhei"
+"FangSong"="wqy-microheik"
+"KaiTi"="wqy-microhei"
+"Microsoft JhengHei"="wqy-microhei"
+"Microsoft YaHei"="wqy-microhei"
+"MingLiU"="wqy-microhei"
+"NSimSun"="wqy-microhei"
+"PMingLiU"="wqy-microhei"
+"SimHei"="wqy-microhei"
+"SimKai"="wqy-microhei"
+"SimSun"="wqy-microhei"
